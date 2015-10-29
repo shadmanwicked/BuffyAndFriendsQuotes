@@ -1,0 +1,25 @@
+#title{
+    color:darkred;
+    font-size:3em;
+    text-align:center;
+    font-family:impact;
+}
+#GenerateQuote button{
+    background: darkred;
+    color:red;
+}
+#quote{
+    font-style:italic;
+    font-family:cursive;
+    color:darkred;
+    font-size:2em;
+    text-align:center
+}
+
+#quote span{
+    font-size:1em;
+}
+
+body{
+    background:black;
+}
